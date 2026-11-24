@@ -1,5 +1,5 @@
 # 🟧 ZipRecruiter — Engineering Co-op Roles
-*Last updated: 2026-11-23 00:12 UTC*
+*Last updated: 2026-11-24 02:58 UTC*
 
 **0 new role(s)** since last run · 0 total in last 24h
 
